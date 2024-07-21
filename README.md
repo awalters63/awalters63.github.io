@@ -5,7 +5,7 @@
 </head>
 <body>
 	<header>
-    	<h1>Assemble with Care Wiki</title>
+    	<h1>Assemble with Care Wiki</h1>
         <nav>
 			<ul>
 				<li><a href="#">Levels</a></li>
