@@ -9,7 +9,7 @@
         <nav>
 			<ul>
 				<li><a href="#">Levels</a></li>
-				<li><a href="awalters63.github.io/character.select.rough.draft.html" Title="Characters">Characters</a></li>
+				<li><a href="#">Characters</a></li>
 				<li><a href="#">Locations</a></li>
 				<li><a href="#">Soundtrack</a></li>
 			</ul>
