@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Assemble with Care Wiki</title>
+	<title>Assemble with Care Wiki readme</title>
 </head>
 <body>
 	<header>
