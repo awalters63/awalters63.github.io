@@ -8,10 +8,10 @@
     	<h1>Assemble with Care Wiki</h1>
         <nav>
 			<ul>
-				<li><a href="#">Levels</a></li>
-				<li><a href="#">Characters</a></li>
-				<li><a href="#">Locations</a></li>
-				<li><a href="#">Soundtrack</a></li>
+				<li><a href="level.select.rough.draft.html">Levels</a></li>
+				<li><a href="character.select.rough.draft.html">Characters</a></li>
+				<li><a href="location.select.rough.draft">Locations</a></li>
+				<li><a href="soundtrack.rough.draft">Soundtrack</a></li>
 			</ul>
 		</nav>
 	</header>
