@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Assemble with Care Wiki readme</title>
+	<title>Assemble with Care Wiki</title>
 </head>
 <body>
 	<header>
-    	<h1>Assemble with Care Wiki</h1>
+    	<h1>Assemble with Care Wiki!</h1>
         <nav>
 			<ul>
 				<li><a href="#">Levels</a></li>
