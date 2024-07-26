@@ -8,10 +8,10 @@
     	<h1>Assemble with Care Wiki</h1>
         <nav>
 			<ul>
-				<li><a href="#">Levels</a></li>
-				<li><a href="#">Characters</a></li>
-				<li><a href="#">Locations</a></li>
-				<li><a href="#">Soundtrack</a></li>
+				<li><a href="level.select.html">Levels</a></li>
+				<li><a href="character.select.html">Characters</a></li>
+				<li><a href="location.select.html">Locations</a></li>
+				<li><a href="soundtrack.html">Soundtrack</a></li>
 			</ul>
 		</nav>
 	</header>
@@ -24,3 +24,4 @@
 	<h2>About This Game</h2>
 	
 	<p>"When Maria, a globe-trotting antique restorer, arrives in the sun-soaked town of Bellariva, she has no idea just how broken it will turn out to be. She wants nothing more than to help the town’s inhabitants save their most beloved possessions, but when it’s their personal lives that are starting to fracture, she’ll need to find a way to hold them together, one spare screw at a time." - <a href="https://store.steampowered.com/app/1202900/Assemble_with_Care/">Steam Library</a></p>
+
