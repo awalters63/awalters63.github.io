@@ -37,3 +37,9 @@ figurecaption {
 	margin-right: auto;
 	width: 50%;
 }
+
+header {
+	background-color: #C5A9F6;
+	text-align: center;
+	border: 2px solid #3C2367;
+}
