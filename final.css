@@ -45,16 +45,20 @@ header {
 }
 
 gallery {
-	max-width: 50%
-	height: auto;
+	# max-width: 50%
+	# height: auto;
+	width="600"
+	height="400"
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 tn {
-	max-width: 20%
-	height: auto;
+	# max-width: 20%
+	# height: auto;
+	width="400"
+	height="266
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
