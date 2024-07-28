@@ -12,10 +12,9 @@
 		<a href="location.select.html">Locations</a>
 		<a href="soundtrack.html">Soundtrack</a>
 	</nav>
-	<h1>Assemble with Care Wiki</h1>
+	<h1><a href="index.html">Assemble with Care Wiki</a></h1>
 	</header>
 </body>
-<article>
  
 	<h2>Assemble with Care</h2>
 
