@@ -27,14 +27,6 @@ p {
 	color: #11133E
 }
 
-img {
-	max-width: 100%
-	height: auto;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-
 figurecaption {
 	display: block;
 	margin-left: auto;
