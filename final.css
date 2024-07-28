@@ -43,7 +43,7 @@ figurecaption {
 }
 
 header {
-	background-color: #C5A9F6;
+	background-color: #fcc6ba;
 	text-align: center;
 	border: 2px solid #3C2367;
 	font-size: 30px;
@@ -60,5 +60,5 @@ tn {
 	# max-width: 20%
 	# height: auto;
 	width="400"
-	height="266"
+	height="300"
 }
