@@ -53,9 +53,6 @@ gallery {
 	# height: auto;
 	width="600"
 	height="400"
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
 }
 
 tn {
@@ -63,7 +60,4 @@ tn {
 	# height: auto;
 	width="400"
 	height="266"
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
 }
