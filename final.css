@@ -44,15 +44,15 @@ header {
 gallery {
 	# max-width: 50%
 	# height: auto;
-	width="200"
-	height="433"
+	width:"200"
+	height:auto
 }
 
 tn {
 	# max-width: 20%
 	# height: auto;
-	width="200"
-	height="433"
+	width:"200"
+	height: auto
 }
 
 title {
